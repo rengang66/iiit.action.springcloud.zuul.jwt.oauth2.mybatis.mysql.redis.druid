@@ -3,5 +3,5 @@
 
 this application is about springcloud,zuul,jwt,oauth2,mybatis,mysql,redis and druid.
 
-通过zuul实现jwt.oauth2，ORM是mybatis，数据库采用mysql，缓存服务是redis.数据源druid
+基于spring cloud框架，通过zuul实现jwt和oauth2认证，ORM是mybatis，数据库采用mysql，缓存服务是redis.数据源druid
 
