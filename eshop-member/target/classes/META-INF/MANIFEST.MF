@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: eshop-member
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: reng
+Implementation-Vendor-Id: com.iiit.action.springcloud.eshop
+Build-Jdk: 1.8.0_74
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/eshop-parent/eshop-member
+Created-By: Maven Integration for Eclipse
+
